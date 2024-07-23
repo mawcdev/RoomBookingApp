@@ -1,0 +1,11 @@
+C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Core\bin\Debug\net8.0\RoomBookingApp.Core.deps.json
+C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Core\bin\Debug\net8.0\RoomBookingApp.Core.dll
+C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Core\bin\Debug\net8.0\RoomBookingApp.Core.pdb
+C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Core\obj\Debug\net8.0\RoomBookingApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Core\obj\Debug\net8.0\RoomBookingApp.Core.AssemblyInfoInputs.cache
+C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Core\obj\Debug\net8.0\RoomBookingApp.Core.AssemblyInfo.cs
+C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Core\obj\Debug\net8.0\RoomBookingApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Core\obj\Debug\net8.0\RoomBookingApp.Core.dll
+C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Core\obj\Debug\net8.0\refint\RoomBookingApp.Core.dll
+C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Core\obj\Debug\net8.0\RoomBookingApp.Core.pdb
+C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Core\obj\Debug\net8.0\ref\RoomBookingApp.Core.dll

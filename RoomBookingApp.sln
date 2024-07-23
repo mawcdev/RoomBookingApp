@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomBookingApp.Core.Tests", "RoomBookingApp.Core.Tests\RoomBookingApp.Core.Tests.csproj", "{4DE1A9FE-8235-4C94-804C-0C95307B36C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoomBookingApp.Core", "RoomBookingApp.Core\RoomBookingApp.Core.csproj", "{7FEE5688-3827-42E2-BB8C-18D72E0EA38E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4DE1A9FE-8235-4C94-804C-0C95307B36C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DE1A9FE-8235-4C94-804C-0C95307B36C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DE1A9FE-8235-4C94-804C-0C95307B36C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DE1A9FE-8235-4C94-804C-0C95307B36C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7FEE5688-3827-42E2-BB8C-18D72E0EA38E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FEE5688-3827-42E2-BB8C-18D72E0EA38E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FEE5688-3827-42E2-BB8C-18D72E0EA38E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FEE5688-3827-42E2-BB8C-18D72E0EA38E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29A4FBF6-FBD2-411F-9AEB-87857A9EAA15}
+	EndGlobalSection
+EndGlobal
