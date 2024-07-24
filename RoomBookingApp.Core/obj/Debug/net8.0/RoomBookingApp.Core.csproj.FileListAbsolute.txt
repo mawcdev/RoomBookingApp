@@ -10,3 +10,7 @@ C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBooking
 C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Core\obj\Debug\net8.0\RoomBookingApp.Core.pdb
 C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Core\obj\Debug\net8.0\ref\RoomBookingApp.Core.dll
 C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Core\obj\Debug\net8.0\RoomBookingApp.Core.sourcelink.json
+C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Core\bin\Debug\net8.0\RoomBookingApp.Domain.dll
+C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Core\bin\Debug\net8.0\RoomBookingApp.Domain.pdb
+C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Core\obj\Debug\net8.0\RoomBookingApp.Core.csproj.AssemblyReference.cache
+C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Core\obj\Debug\net8.0\RoomBook.FE4CED6A.Up2Date

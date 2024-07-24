@@ -1,6 +1,6 @@
 ﻿using Moq;
 using RoomBookingApp.Core.DataServices;
-using RoomBookingApp.Core.Domain;
+using RoomBookingApp.Domain;
 using RoomBookingApp.Core.Enums;
 using RoomBookingApp.Core.Models;
 using RoomBookingApp.Core.Processors;
@@ -117,7 +117,7 @@ namespace RoomBookingApp.Core
                 _roomBookingServiceMock.Setup(q => q.Save(It.IsAny<RoomBooking>()))
                .Callback<RoomBooking>(booking =>
                {
-                   booking.Id = roomBookingId;
+                   booking.Id = (int)roomBookingId;
                });
             }
 
