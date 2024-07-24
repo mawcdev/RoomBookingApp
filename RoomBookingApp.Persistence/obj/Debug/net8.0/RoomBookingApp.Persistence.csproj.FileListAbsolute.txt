@@ -16,3 +16,5 @@ C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBooking
 C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net8.0\refint\RoomBookingApp.Persistence.dll
 C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net8.0\RoomBookingApp.Persistence.pdb
 C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net8.0\ref\RoomBookingApp.Persistence.dll
+C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Persistence\bin\Debug\net8.0\RoomBookingApp.Persistence.runtimeconfig.json
+C:\Users\MARC\Documents\Projects\.net core\unit tests\RoomBookingApp\RoomBookingApp.Persistence\obj\Debug\net8.0\RoomBookingApp.Persistence.genruntimeconfig.cache

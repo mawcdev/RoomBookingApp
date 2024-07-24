@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoomBookingApp.Persistence.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+718032bb959ca7e5cc320f6f5d52eae613f7ca1e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+63065ae18d9197e21dbc0e97f1395b1cadc273e6")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoomBookingApp.Persistence.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoomBookingApp.Persistence.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
